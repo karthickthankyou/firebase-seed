@@ -1,0 +1,1329 @@
+{
+  "whitethorn-digital": {
+    "id": "whitethorn-digital",
+    "name": "Whitethorn Digital",
+    "games": ["003"]
+  },
+  "coldwild-games": {
+    "id": "coldwild-games",
+    "name": "Coldwild Games",
+    "games": ["002", "079"]
+  },
+  "thq-nordic": {
+    "id": "thq-nordic",
+    "name": "THQ Nordic",
+    "games": [
+      "005",
+      "024",
+      "102",
+      "103",
+      "132",
+      "192",
+      "193",
+      "208",
+      "249",
+      "284",
+      "328",
+      "348",
+      "350",
+      "506",
+      "551",
+      "569"
+    ]
+  },
+  "maze-theory": {
+    "id": "maze-theory",
+    "name": "Maze Theory",
+    "games": ["000"]
+  },
+  "handy-games-gmbh": {
+    "id": "handy-games-gmbh",
+    "name": "Handy Games GmbH",
+    "games": ["006", "197"]
+  },
+  "team17-digital-ltd": {
+    "id": "team17-digital-ltd",
+    "name": "Team17 Digital Ltd",
+    "games": ["001", "239", "264", "340", "388", "544"]
+  },
+  "finji": { "id": "finji", "name": "Finji", "games": ["004", "170", "320"] },
+  "whatboy-games": {
+    "id": "whatboy-games",
+    "name": "Whatboy Games",
+    "games": ["009"]
+  },
+  "505-games": {
+    "id": "505-games",
+    "name": "505 Games",
+    "games": ["007", "237", "337", "420", "467", "473", "536", "554"]
+  },
+  "discord": { "id": "discord", "name": "Discord", "games": ["008"] },
+  "dear-villagers": {
+    "id": "dear-villagers",
+    "name": "Dear Villagers",
+    "games": ["011", "076", "247", "278"]
+  },
+  "11-bit-studios": {
+    "id": "11-bit-studios",
+    "name": "11 bit studios",
+    "games": ["014", "517", "583"]
+  },
+  "mihoyo-limited": {
+    "id": "mihoyo-limited",
+    "name": "miHoYo Limited",
+    "games": ["010"]
+  },
+  "beetlewing": { "id": "beetlewing", "name": "Beetlewing", "games": ["015"] },
+  "mwm-interactive": {
+    "id": "mwm-interactive",
+    "name": "MWM Interactive",
+    "games": ["017", "104", "117"]
+  },
+  "the-irregular-corporation": {
+    "id": "the-irregular-corporation",
+    "name": "The Irregular Corporation",
+    "games": ["016", "106"]
+  },
+  "raw-fury": {
+    "id": "raw-fury",
+    "name": "Raw Fury",
+    "games": [
+      "012",
+      "021",
+      "062",
+      "125",
+      "159",
+      "213",
+      "390",
+      "404",
+      "465",
+      "507",
+      "570"
+    ]
+  },
+  "tripwire-interactive": {
+    "id": "tripwire-interactive",
+    "name": "Tripwire Interactive",
+    "games": ["013", "257", "339", "361"]
+  },
+  "electronic-arts": {
+    "id": "electronic-arts",
+    "name": "Electronic Arts",
+    "games": ["019", "162", "163", "261", "442"]
+  },
+  "urnique-studio": {
+    "id": "urnique-studio",
+    "name": "Urnique Studio",
+    "games": ["020"]
+  },
+  "focus-home-interactive": {
+    "id": "focus-home-interactive",
+    "name": "Focus Home Interactive",
+    "games": ["018", "047", "140", "212", "196", "333", "377", "516"]
+  },
+  "soedesco": { "id": "soedesco", "name": "SOEDESCO", "games": ["022"] },
+  "1c-entertainment-3d-realms": {
+    "id": "1c-entertainment-3d-realms",
+    "name": "1C Entertainment, 3D Realms",
+    "games": ["023"]
+  },
+  "rebound-cg.": {
+    "id": "rebound-cg.",
+    "name": "Rebound CG.",
+    "games": ["025"]
+  },
+  "handygames": {
+    "id": "handygames",
+    "name": "HandyGames",
+    "games": ["026", "255"]
+  },
+  "tinybuild": {
+    "id": "tinybuild",
+    "name": "tinyBuild",
+    "games": ["028", "110", "207", "312", "322", "387", "500"]
+  },
+  "nicalis-inc.": {
+    "id": "nicalis-inc.",
+    "name": "Nicalis, Inc.",
+    "games": ["027", "089", "108", "147", "203"]
+  },
+  "1c-entertainment": {
+    "id": "1c-entertainment",
+    "name": "1C Entertainment",
+    "games": ["030", "042", "069", "182"]
+  },
+  "capybara-games": {
+    "id": "capybara-games",
+    "name": "Capybara Games",
+    "games": ["031", "325"]
+  },
+  "curve-digital": {
+    "id": "curve-digital",
+    "name": "Curve Digital",
+    "games": ["029", "341", "381", "453"]
+  },
+  "big-sugar": { "id": "big-sugar", "name": "Big Sugar", "games": ["032"] },
+  "2k": {
+    "id": "2k",
+    "name": "2K",
+    "games": ["033", "145", "217", "268", "266", "267", "363", "461"]
+  },
+  "fellow-traveller": {
+    "id": "fellow-traveller",
+    "name": "Fellow Traveller",
+    "games": ["034", "099"]
+  },
+  "headup": {
+    "id": "headup",
+    "name": "Headup",
+    "games": ["035", "101", "219"]
+  },
+  "sony-interactive-entertainment": {
+    "id": "sony-interactive-entertainment",
+    "name": "Sony Interactive Entertainment",
+    "games": ["037", "318", "379", "448"]
+  },
+  "ravenscourt": {
+    "id": "ravenscourt",
+    "name": "Ravenscourt",
+    "games": ["036", "303"]
+  },
+  "unknown-worlds-entertainment": {
+    "id": "unknown-worlds-entertainment",
+    "name": "Unknown Worlds Entertainment",
+    "games": ["038", "526"]
+  },
+  "deep-silver": {
+    "id": "deep-silver",
+    "name": "Deep Silver",
+    "games": [
+      "039",
+      "157",
+      "218",
+      "291",
+      "362",
+      "439",
+      "488",
+      "496",
+      "525",
+      "578"
+    ]
+  },
+  "enodo-games": {
+    "id": "enodo-games",
+    "name": "Enodo Games",
+    "games": ["043"]
+  },
+  "broken-arms-games": {
+    "id": "broken-arms-games",
+    "name": "Broken Arms Games",
+    "games": ["041"]
+  },
+  "mi'pu'mi-games": {
+    "id": "mi'pu'mi-games",
+    "name": "Mi'pu'mi Games",
+    "games": ["040", "181"]
+  },
+  "versus-evil": {
+    "id": "versus-evil",
+    "name": "Versus Evil",
+    "games": ["044", "045", "071", "413", "444", "460"]
+  },
+  "flarb-llc": { "id": "flarb-llc", "name": "FLARB LLC", "games": ["046"] },
+  "nis-america-inc.": {
+    "id": "nis-america-inc.",
+    "name": "NIS America, Inc.",
+    "games": ["051", "068", "080", "115", "185"]
+  },
+  "kongregate": { "id": "kongregate", "name": "Kongregate", "games": ["048"] },
+  "snowman": { "id": "snowman", "name": "Snowman", "games": ["049", "313"] },
+  "improbable-worlds-limited": {
+    "id": "improbable-worlds-limited",
+    "name": "Improbable Worlds Limited",
+    "games": ["050"]
+  },
+  "goblinz-publishing": {
+    "id": "goblinz-publishing",
+    "name": "Goblinz Publishing",
+    "games": ["052", "109"]
+  },
+  "meta-publishing": {
+    "id": "meta-publishing",
+    "name": "META Publishing",
+    "games": ["053"]
+  },
+  "slitherine-ltd.": {
+    "id": "slitherine-ltd.",
+    "name": "Slitherine Ltd.",
+    "games": ["055", "225"]
+  },
+  "draknek-and-friends": {
+    "id": "draknek-and-friends",
+    "name": "Draknek & Friends",
+    "games": ["058", "056", "059", "057"]
+  },
+  "toplitz-productions": {
+    "id": "toplitz-productions",
+    "name": "Toplitz Productions",
+    "games": ["054", "187"]
+  },
+  "defiant-development": {
+    "id": "defiant-development",
+    "name": "Defiant Development",
+    "games": ["061"]
+  },
+  "milestone-s.r.l.": {
+    "id": "milestone-s.r.l.",
+    "name": "Milestone S.r.l.",
+    "games": ["060"]
+  },
+  "brave-software-inc.": {
+    "id": "brave-software-inc.",
+    "name": "Brave Software, Inc.",
+    "games": ["065"]
+  },
+  "kenney": { "id": "kenney", "name": "Kenney", "games": ["063"] },
+  "itch.io": { "id": "itch.io", "name": "itch.io", "games": ["066"] },
+  "krita-project": {
+    "id": "krita-project",
+    "name": "Krita Project",
+    "games": ["064"]
+  },
+  "free-range-games": {
+    "id": "free-range-games",
+    "name": "Free Range Games",
+    "games": ["067"]
+  },
+  "nightdive-studios": {
+    "id": "nightdive-studios",
+    "name": "Nightdive Studios",
+    "games": ["070"]
+  },
+  "square-enix": {
+    "id": "square-enix",
+    "name": "Square Enix",
+    "games": ["072", "092", "094", "093", "095", "105", "272", "380"]
+  },
+  "manticore-games": {
+    "id": "manticore-games",
+    "name": "Manticore Games",
+    "games": ["073"]
+  },
+  "daedalic-entertainment": {
+    "id": "daedalic-entertainment",
+    "name": "Daedalic Entertainment",
+    "games": ["074", "075", "346", "503"]
+  },
+  "chainsawesome-games": {
+    "id": "chainsawesome-games",
+    "name": "Chainsawesome Games",
+    "games": ["078"]
+  },
+  "headup-gmbh": {
+    "id": "headup-gmbh",
+    "name": "Headup GmbH",
+    "games": ["081", "224", "240"]
+  },
+  "terrible-posture-games-inc.": {
+    "id": "terrible-posture-games-inc.",
+    "name": "Terrible Posture Games, Inc.",
+    "games": ["082", "286", "294", "306", "315", "319"]
+  },
+  "skybound-games": {
+    "id": "skybound-games",
+    "name": "Skybound Games",
+    "games": ["083", "463", "512", "549", "564"]
+  },
+  "oddworld-inhabitants-inc.": {
+    "id": "oddworld-inhabitants-inc.",
+    "name": "Oddworld Inhabitants, Inc.",
+    "games": ["086", "180"]
+  },
+  "maximum-games": {
+    "id": "maximum-games",
+    "name": "Maximum Games",
+    "games": ["085"]
+  },
+  "david-wehle": {
+    "id": "david-wehle",
+    "name": "David Wehle",
+    "games": ["077"]
+  },
+  "spry-fox": { "id": "spry-fox", "name": "Spry Fox", "games": ["084"] },
+  "purple-tree": {
+    "id": "purple-tree",
+    "name": "Purple Tree",
+    "games": ["088"]
+  },
+  "ubisoft": {
+    "id": "ubisoft",
+    "name": "Ubisoft",
+    "games": [
+      "091",
+      "120",
+      "122",
+      "121",
+      "129",
+      "135",
+      "150",
+      "154",
+      "165",
+      "184",
+      "206",
+      "222",
+      "234",
+      "254",
+      "259",
+      "300",
+      "301",
+      "309",
+      "310",
+      "329",
+      "342",
+      "343",
+      "344",
+      "370",
+      "392",
+      "394",
+      "398",
+      "397",
+      "410",
+      "411",
+      "412",
+      "434",
+      "437",
+      "456",
+      "479",
+      "487",
+      "490",
+      "494",
+      "495",
+      "509",
+      "521",
+      "519",
+      "531",
+      "534",
+      "547",
+      "550",
+      "552",
+      "560",
+      "562",
+      "561",
+      "568",
+      "576",
+      "581",
+      "584",
+      "588",
+      "589"
+    ]
+  },
+  "thermite-games": {
+    "id": "thermite-games",
+    "name": "Thermite Games",
+    "games": ["087"]
+  },
+  "team17": {
+    "id": "team17",
+    "name": "Team17",
+    "games": ["090", "499", "513"]
+  },
+  "no-more-robots": {
+    "id": "no-more-robots",
+    "name": "No More Robots",
+    "games": ["097", "098"]
+  },
+  "frozen-district": {
+    "id": "frozen-district",
+    "name": "Frozen District",
+    "games": ["100"]
+  },
+  "kalypso-media": {
+    "id": "kalypso-media",
+    "name": "Kalypso Media",
+    "games": ["096", "231", "265", "283"]
+  },
+  "perfect-world-entertainment-inc.": {
+    "id": "perfect-world-entertainment-inc.",
+    "name": "Perfect World Entertainment Inc.",
+    "games": ["107", "228", "258", "314"]
+  },
+  "wargaming": { "id": "wargaming", "name": "Wargaming", "games": ["114"] },
+  "modern-wolf": {
+    "id": "modern-wolf",
+    "name": "Modern Wolf",
+    "games": ["113", "179"]
+  },
+  "grey-alien-games": {
+    "id": "grey-alien-games",
+    "name": "Grey Alien Games",
+    "games": ["111"]
+  },
+  "over-the-moon": {
+    "id": "over-the-moon",
+    "name": "Over The Moon",
+    "games": ["112", "118"]
+  },
+  "serenity-forge": {
+    "id": "serenity-forge",
+    "name": "Serenity Forge",
+    "games": ["119", "338"]
+  },
+  "unit-2-games": {
+    "id": "unit-2-games",
+    "name": "Unit 2 Games",
+    "games": ["123"]
+  },
+  "eugen-systems": {
+    "id": "eugen-systems",
+    "name": "Eugen Systems",
+    "games": ["126"]
+  },
+  "wiregames-d.o.o": {
+    "id": "wiregames-d.o.o",
+    "name": "WIREGAMES d.o.o",
+    "games": ["127"]
+  },
+  "ubisoft-entertainment": {
+    "id": "ubisoft-entertainment",
+    "name": "Ubisoft Entertainment",
+    "games": ["130"]
+  },
+  "rockgame-s.a.": {
+    "id": "rockgame-s.a.",
+    "name": "RockGame S.A.",
+    "games": ["131"]
+  },
+  "101xp": { "id": "101xp", "name": "101XP", "games": ["128"] },
+  "hypetrain-digital": {
+    "id": "hypetrain-digital",
+    "name": "HypeTrain Digital",
+    "games": ["133"]
+  },
+  "failbetter-games": {
+    "id": "failbetter-games",
+    "name": "Failbetter Games",
+    "games": ["134"]
+  },
+  "mode-7": { "id": "mode-7", "name": "Mode 7", "games": ["136", "137"] },
+  "spiderweb-software": {
+    "id": "spiderweb-software",
+    "name": "Spiderweb Software",
+    "games": ["139"]
+  },
+  "drone-champions": {
+    "id": "drone-champions",
+    "name": "Drone Champions",
+    "games": ["138"]
+  },
+  "1c-entertainment-or-3d-realms": {
+    "id": "1c-entertainment-or-3d-realms",
+    "name": "1C Entertainment | 3D Realms",
+    "games": ["141"]
+  },
+  "bethesda-softworks": {
+    "id": "bethesda-softworks",
+    "name": "Bethesda Softworks",
+    "games": ["143"]
+  },
+  "funselektor-labs-inc.": {
+    "id": "funselektor-labs-inc.",
+    "name": "Funselektor Labs Inc.",
+    "games": ["142", "274"]
+  },
+  "sega-corporation": {
+    "id": "sega-corporation",
+    "name": "SEGA Corporation",
+    "games": ["144"]
+  },
+  "codename-entertainment": {
+    "id": "codename-entertainment",
+    "name": "Codename Entertainment",
+    "games": ["146"]
+  },
+  "iracing": { "id": "iracing", "name": "iRacing", "games": ["151"] },
+  "whitethorn-games": {
+    "id": "whitethorn-games",
+    "name": "Whitethorn Games",
+    "games": ["148", "190", "211"]
+  },
+  "massive-damage": {
+    "id": "massive-damage",
+    "name": "Massive Damage",
+    "games": ["149"]
+  },
+  "good-feel-co.-ltd.": {
+    "id": "good-feel-co.-ltd.",
+    "name": "Good-Feel Co., Ltd.",
+    "games": ["152"]
+  },
+  "sega": {
+    "id": "sega",
+    "name": "SEGA",
+    "games": ["156", "175", "210", "214", "317"]
+  },
+  "the-game-bakers": {
+    "id": "the-game-bakers",
+    "name": "The Game Bakers",
+    "games": ["155"]
+  },
+  "positech-games": {
+    "id": "positech-games",
+    "name": "Positech Games",
+    "games": ["153", "215", "246", "191"]
+  },
+  "devolver-digital": {
+    "id": "devolver-digital",
+    "name": "Devolver Digital",
+    "games": [
+      "160",
+      "235",
+      "245",
+      "262",
+      "124",
+      "360",
+      "440",
+      "481",
+      "493",
+      "520",
+      "535",
+      "546",
+      "558"
+    ]
+  },
+  "bloober-team-s.a.": {
+    "id": "bloober-team-s.a.",
+    "name": "Bloober Team S.A.",
+    "games": ["158"]
+  },
+  "stardock-entertainment": {
+    "id": "stardock-entertainment",
+    "name": "Stardock Entertainment",
+    "games": ["161", "406"]
+  },
+  "yak-and-co": { "id": "yak-and-co", "name": "Yak & Co", "games": ["164"] },
+  "humble-games": {
+    "id": "humble-games",
+    "name": "Humble Games",
+    "games": ["166", "238"]
+  },
+  "frontier-developments": {
+    "id": "frontier-developments",
+    "name": "Frontier Developments",
+    "games": ["167", "221"]
+  },
+  "beam-team-publishing": {
+    "id": "beam-team-publishing",
+    "name": "Beam Team Publishing",
+    "games": ["169"]
+  },
+  "red-hook-studios": {
+    "id": "red-hook-studios",
+    "name": "Red Hook Studios",
+    "games": ["171"]
+  },
+  "righteous-hammer-games": {
+    "id": "righteous-hammer-games",
+    "name": "Righteous Hammer Games",
+    "games": ["168"]
+  },
+  "kalypso-media-group-gmbh": {
+    "id": "kalypso-media-group-gmbh",
+    "name": "Kalypso Media Group GmbH",
+    "games": ["173", "172"]
+  },
+  "team-meat": { "id": "team-meat", "name": "Team Meat", "games": ["174"] },
+  "hinterland-studio-inc.": {
+    "id": "hinterland-studio-inc.",
+    "name": "Hinterland Studio Inc.",
+    "games": ["177"]
+  },
+  "innersloth": { "id": "innersloth", "name": "Innersloth", "games": ["178"] },
+  "hidden-path-entertainment": {
+    "id": "hidden-path-entertainment",
+    "name": "Hidden Path Entertainment",
+    "games": ["176"]
+  },
+  "warner-bros.-games": {
+    "id": "warner-bros.-games",
+    "name": "Warner Bros. Games",
+    "games": ["183"]
+  },
+  "paradox-interactive": {
+    "id": "paradox-interactive",
+    "name": "Paradox Interactive",
+    "games": ["186", "198", "199", "295", "296", "297", "523"]
+  },
+  "the-wandering-band-llc": {
+    "id": "the-wandering-band-llc",
+    "name": "The Wandering Band LLC",
+    "games": ["188"]
+  },
+  "spotify-ab": { "id": "spotify-ab", "name": "Spotify AB", "games": ["189"] },
+  "nacon": { "id": "nacon", "name": "Nacon", "games": ["194", "287"] },
+  "dairymen": { "id": "dairymen", "name": "Dairymen", "games": ["200"] },
+  "cd-projekt-red": {
+    "id": "cd-projekt-red",
+    "name": "CD PROJEKT RED",
+    "games": ["201"]
+  },
+  "gaijin-entertainment": {
+    "id": "gaijin-entertainment",
+    "name": "Gaijin Entertainment",
+    "games": ["205"]
+  },
+  "snapshot-games": {
+    "id": "snapshot-games",
+    "name": "Snapshot Games",
+    "games": ["202"]
+  },
+  "offworld-industries": {
+    "id": "offworld-industries",
+    "name": "Offworld Industries",
+    "games": ["204", "557"]
+  },
+  "dontnod-entertainment": {
+    "id": "dontnod-entertainment",
+    "name": "DONTNOD Entertainment",
+    "games": ["209"]
+  },
+  "gearbox-publishing": {
+    "id": "gearbox-publishing",
+    "name": "Gearbox Publishing",
+    "games": ["216"]
+  },
+  "viz-media": { "id": "viz-media", "name": "VIZ Media", "games": ["220"] },
+  "annapurna-interactive": {
+    "id": "annapurna-interactive",
+    "name": "Annapurna Interactive",
+    "games": [
+      "226",
+      "256",
+      "280",
+      "424",
+      "477",
+      "480",
+      "497",
+      "502",
+      "510",
+      "530",
+      "542"
+    ]
+  },
+  "young-horses": {
+    "id": "young-horses",
+    "name": "Young Horses",
+    "games": ["227"]
+  },
+  "bloober-team": {
+    "id": "bloober-team",
+    "name": "Bloober Team",
+    "games": ["229"]
+  },
+  "brace-yourself-games": {
+    "id": "brace-yourself-games",
+    "name": "Brace Yourself Games",
+    "games": ["223", "383"]
+  },
+  "ncsoft": { "id": "ncsoft", "name": "NCSOFT", "games": ["230"] },
+  "bloober-team-na": {
+    "id": "bloober-team-na",
+    "name": "Bloober Team NA",
+    "games": ["232"]
+  },
+  "": { "id": "", "name": "", "games": ["233"] },
+  "slug-disco": { "id": "slug-disco", "name": "Slug Disco", "games": ["236"] },
+  "majesco-entertainment": {
+    "id": "majesco-entertainment",
+    "name": "Majesco Entertainment",
+    "games": ["243"]
+  },
+  "motion-twin": {
+    "id": "motion-twin",
+    "name": "Motion Twin",
+    "games": ["241"]
+  },
+  "gun-media": { "id": "gun-media", "name": "Gun Media", "games": ["242"] },
+  "timberline-studio": {
+    "id": "timberline-studio",
+    "name": "Timberline Studio",
+    "games": ["244"]
+  },
+  "frictional-games": {
+    "id": "frictional-games",
+    "name": "Frictional Games",
+    "games": ["248", "252", "373", "574"]
+  },
+  "plug-in-digital": {
+    "id": "plug-in-digital",
+    "name": "Plug In Digital",
+    "games": ["250"]
+  },
+  "super.com": { "id": "super.com", "name": "Super.com", "games": ["251"] },
+  "jackbox-games-inc.": {
+    "id": "jackbox-games-inc.",
+    "name": "Jackbox Games, Inc.",
+    "games": ["253"]
+  },
+  "bithell-games": {
+    "id": "bithell-games",
+    "name": "Bithell Games",
+    "games": ["260"]
+  },
+  "hi-rez-studios": {
+    "id": "hi-rez-studios",
+    "name": "Hi-Rez Studios",
+    "games": ["263", "378", "393"]
+  },
+  "frontier-foundry": {
+    "id": "frontier-foundry",
+    "name": "Frontier Foundry",
+    "games": ["269"]
+  },
+  "io-interactive-as": {
+    "id": "io-interactive-as",
+    "name": "IO Interactive A/S",
+    "games": ["270", "288", "293"]
+  },
+  "reto-moto": { "id": "reto-moto", "name": "RETO MOTO", "games": ["271"] },
+  "zen-studios": {
+    "id": "zen-studios",
+    "name": "Zen Studios",
+    "games": ["275", "376", "491"]
+  },
+  "psyonix-llc": {
+    "id": "psyonix-llc",
+    "name": "Psyonix LLC",
+    "games": ["273"]
+  },
+  "ripstone": { "id": "ripstone", "name": "Ripstone", "games": ["277"] },
+  "crytek": { "id": "crytek", "name": "Crytek", "games": ["276"] },
+  "grinding-gear-games": {
+    "id": "grinding-gear-games",
+    "name": "Grinding Gear Games",
+    "games": ["279"]
+  },
+  "goblinz-studio": {
+    "id": "goblinz-studio",
+    "name": "Goblinz Studio",
+    "games": ["281"]
+  },
+  "good-shepherd-entertainment": {
+    "id": "good-shepherd-entertainment",
+    "name": "Good Shepherd Entertainment",
+    "games": ["282", "454"]
+  },
+  "mlb": { "id": "mlb", "name": "MLB", "games": ["116"] },
+  "activision": { "id": "activision", "name": "Activision", "games": ["285"] },
+  "the-gd-studio": {
+    "id": "the-gd-studio",
+    "name": "The GD Studio",
+    "games": ["290"]
+  },
+  "proletariat": {
+    "id": "proletariat",
+    "name": "Proletariat",
+    "games": ["289"]
+  },
+  "bossa-studios": {
+    "id": "bossa-studios",
+    "name": "Bossa Studios",
+    "games": ["292"]
+  },
+  "562-interactive": {
+    "id": "562-interactive",
+    "name": "562 Interactive",
+    "games": ["298"]
+  },
+  "hello-games": {
+    "id": "hello-games",
+    "name": "Hello Games",
+    "games": ["299"]
+  },
+  "sold-out-ltd.": {
+    "id": "sold-out-ltd.",
+    "name": "Sold Out Ltd.",
+    "games": ["302"]
+  },
+  "playful-studios": {
+    "id": "playful-studios",
+    "name": "Playful Studios",
+    "games": ["304"]
+  },
+  "techland": { "id": "techland", "name": "Techland", "games": ["305"] },
+  "thunder-lotus": {
+    "id": "thunder-lotus",
+    "name": "Thunder Lotus",
+    "games": ["308", "432", "538"]
+  },
+  "cellar-door-games": {
+    "id": "cellar-door-games",
+    "name": "Cellar Door Games",
+    "games": ["307"]
+  },
+  "playstack-ltd": {
+    "id": "playstack-ltd",
+    "name": "Playstack Ltd",
+    "games": ["311"]
+  },
+  "santa-ragione": {
+    "id": "santa-ragione",
+    "name": "Santa Ragione",
+    "games": ["316"]
+  },
+  "game-mechanic-studios": {
+    "id": "game-mechanic-studios",
+    "name": "Game Mechanic Studios",
+    "games": ["321"]
+  },
+  "turning-wheel-llc": {
+    "id": "turning-wheel-llc",
+    "name": "Turning Wheel LLC",
+    "games": ["323"]
+  },
+  "batterystaple": {
+    "id": "batterystaple",
+    "name": "Batterystaple",
+    "games": ["324"]
+  },
+  "team17-digital-ltd.": {
+    "id": "team17-digital-ltd.",
+    "name": "Team17 Digital Ltd.",
+    "games": ["327", "326"]
+  },
+  "aspyr-media-inc.": {
+    "id": "aspyr-media-inc.",
+    "name": "Aspyr Media, Inc.",
+    "games": ["330", "566"]
+  },
+  "fullbright": { "id": "fullbright", "name": "Fullbright", "games": ["331"] },
+  "adult-swim-games": {
+    "id": "adult-swim-games",
+    "name": "Adult Swim Games",
+    "games": ["332"]
+  },
+  "superhot-team": {
+    "id": "superhot-team",
+    "name": "SUPERHOT Team",
+    "games": ["334", "563"]
+  },
+  "perfect-world-entertainment": {
+    "id": "perfect-world-entertainment",
+    "name": "Perfect World Entertainment",
+    "games": ["335", "385", "408"]
+  },
+  "glumberland": {
+    "id": "glumberland",
+    "name": "Glumberland",
+    "games": ["336"]
+  },
+  "bonusxp": { "id": "bonusxp", "name": "BonusXP", "games": ["345"] },
+  "atari-inc": { "id": "atari-inc", "name": "Atari Inc", "games": ["347"] },
+  "snail-games-usa": {
+    "id": "snail-games-usa",
+    "name": "Snail Games USA",
+    "games": ["353", "528", "575"]
+  },
+  "chucklefish": {
+    "id": "chucklefish",
+    "name": "Chucklefish",
+    "games": ["352"]
+  },
+  "fjrd-interactive": {
+    "id": "fjrd-interactive",
+    "name": "FJRD Interactive",
+    "games": ["351"]
+  },
+  "snk": { "id": "snk", "name": "SNK", "games": ["354"] },
+  "zaum": { "id": "zaum", "name": "ZA/UM", "games": ["358"] },
+  "snk-corporation": {
+    "id": "snk-corporation",
+    "name": "SNK CORPORATION",
+    "games": ["355"]
+  },
+  "e-line-media": {
+    "id": "e-line-media",
+    "name": "E-Line Media",
+    "games": ["356"]
+  },
+  "ludeon-studios": {
+    "id": "ludeon-studios",
+    "name": "Ludeon Studios",
+    "games": ["357"]
+  },
+  "dry-cactus": { "id": "dry-cactus", "name": "Dry Cactus", "games": ["359"] },
+  "taleworlds-entertainment": {
+    "id": "taleworlds-entertainment",
+    "name": "TaleWorlds Entertainment",
+    "games": ["349"]
+  },
+  "rockstar-games": {
+    "id": "rockstar-games",
+    "name": "Rockstar Games",
+    "games": ["364", "447"]
+  },
+  "cd-projekt-s.a.": {
+    "id": "cd-projekt-s.a.",
+    "name": "CD PROJEKT S.A.",
+    "games": ["365"]
+  },
+  "coffee-stain-publishing": {
+    "id": "coffee-stain-publishing",
+    "name": "Coffee Stain Publishing",
+    "games": ["366"]
+  },
+  "terrible-toybox-inc.": {
+    "id": "terrible-toybox-inc.",
+    "name": "Terrible Toybox, Inc.",
+    "games": ["367", "545"]
+  },
+  "next-studios": {
+    "id": "next-studios",
+    "name": "NExT Studios",
+    "games": ["369"]
+  },
+  "balancing-monkey-games": {
+    "id": "balancing-monkey-games",
+    "name": "Balancing Monkey Games",
+    "games": ["368"]
+  },
+  "mohawk-games": {
+    "id": "mohawk-games",
+    "name": "Mohawk Games",
+    "games": ["371"]
+  },
+  "mad-dog-games": {
+    "id": "mad-dog-games",
+    "name": "Mad Dog Games",
+    "games": ["372", "455"]
+  },
+  "digital-extremes": {
+    "id": "digital-extremes",
+    "name": "Digital Extremes",
+    "games": ["195"]
+  },
+  "butterscotch-shenanigans": {
+    "id": "butterscotch-shenanigans",
+    "name": "Butterscotch Shenanigans",
+    "games": ["375", "374"]
+  },
+  "santa-ragione-srl": {
+    "id": "santa-ragione-srl",
+    "name": "Santa Ragione srl",
+    "games": ["382"]
+  },
+  "frogwares": { "id": "frogwares", "name": "Frogwares", "games": ["384"] },
+  "the-fullbright-company": {
+    "id": "the-fullbright-company",
+    "name": "The Fullbright Company",
+    "games": ["386"]
+  },
+  "bedtime-digital-games": {
+    "id": "bedtime-digital-games",
+    "name": "Bedtime Digital Games",
+    "games": ["389"]
+  },
+  "galactic-cafe": {
+    "id": "galactic-cafe",
+    "name": "Galactic Cafe",
+    "games": ["391"]
+  },
+  "new-world-interactive": {
+    "id": "new-world-interactive",
+    "name": "New World Interactive",
+    "games": ["396", "414", "423", "514", "553"]
+  },
+  "xbox-game-studios": {
+    "id": "xbox-game-studios",
+    "name": "Xbox Game Studios",
+    "games": ["399"]
+  },
+  "akupara-games": {
+    "id": "akupara-games",
+    "name": "Akupara Games",
+    "games": ["401"]
+  },
+  "adam-robinson-yu": {
+    "id": "adam-robinson-yu",
+    "name": "Adam Robinson-Yu",
+    "games": ["400"]
+  },
+  "paper-cult": { "id": "paper-cult", "name": "Paper Cult", "games": ["402"] },
+  "analgesic-productions": {
+    "id": "analgesic-productions",
+    "name": "Analgesic Productions",
+    "games": ["403"]
+  },
+  "bigben-interactive": {
+    "id": "bigben-interactive",
+    "name": "Bigben Interactive",
+    "games": ["405", "441", "466"]
+  },
+  "big-blue-bubble": {
+    "id": "big-blue-bubble",
+    "name": "Big Blue Bubble",
+    "games": ["407"]
+  },
+  "gwen-frey": { "id": "gwen-frey", "name": "Gwen Frey", "games": ["409"] },
+  "the-bearded-ladies": {
+    "id": "the-bearded-ladies",
+    "name": "The Bearded Ladies",
+    "games": ["415"]
+  },
+  "team-colorblind": {
+    "id": "team-colorblind",
+    "name": "Team Colorblind",
+    "games": ["416"]
+  },
+  "asmodee-digital": {
+    "id": "asmodee-digital",
+    "name": "Asmodee Digital",
+    "games": ["417"]
+  },
+  "rebellion": { "id": "rebellion", "name": "Rebellion", "games": ["418"] },
+  "graffiti-games": {
+    "id": "graffiti-games",
+    "name": "Graffiti Games",
+    "games": ["419"]
+  },
+  "wizards-of-the-coast": {
+    "id": "wizards-of-the-coast",
+    "name": "Wizards of the Coast",
+    "games": ["421"]
+  },
+  "matt-makes-games": {
+    "id": "matt-makes-games",
+    "name": "Matt Makes Games",
+    "games": ["422", "529"]
+  },
+  "athlon-games-inc.": {
+    "id": "athlon-games-inc.",
+    "name": "Athlon Games, Inc.",
+    "games": ["425", "436"]
+  },
+  "team17-digital-limited": {
+    "id": "team17-digital-limited",
+    "name": "Team17 Digital Limited",
+    "games": ["426"]
+  },
+  "quantic-dream": {
+    "id": "quantic-dream",
+    "name": "Quantic Dream",
+    "games": ["427", "472", "475"]
+  },
+  "piranha-games": {
+    "id": "piranha-games",
+    "name": "Piranha Games",
+    "games": ["430", "429"]
+  },
+  "digital-continue": {
+    "id": "digital-continue",
+    "name": "Digital Continue",
+    "games": ["428"]
+  },
+  "piccolo": { "id": "piccolo", "name": "Piccolo", "games": ["435"] },
+  "paradox-interactive-ab": {
+    "id": "paradox-interactive-ab",
+    "name": "Paradox Interactive AB",
+    "games": ["433"]
+  },
+  "klei-entertainment": {
+    "id": "klei-entertainment",
+    "name": "Klei Entertainment",
+    "games": ["438", "474"]
+  },
+  "ragnarok-game-llc": {
+    "id": "ragnarok-game-llc",
+    "name": "Ragnarok Game LLC",
+    "games": ["443"]
+  },
+  "pillow-castle": {
+    "id": "pillow-castle",
+    "name": "Pillow Castle",
+    "games": ["445"]
+  },
+  "private-division": {
+    "id": "private-division",
+    "name": "Private Division",
+    "games": ["450", "468"]
+  },
+  "vlambeer": { "id": "vlambeer", "name": "Vlambeer", "games": ["446"] },
+  "william-chyr-studio": {
+    "id": "william-chyr-studio",
+    "name": "William Chyr Studio",
+    "games": ["451"]
+  },
+  "jackbox-games": {
+    "id": "jackbox-games",
+    "name": "Jackbox Games",
+    "games": ["452", "508", "532", "533", "556", "573", "582"]
+  },
+  "night-school-studio": {
+    "id": "night-school-studio",
+    "name": "Night School Studio",
+    "games": ["449", "498"]
+  },
+  "triband": { "id": "triband", "name": "Triband", "games": ["457"] },
+  "panic": { "id": "panic", "name": "Panic", "games": ["458"] },
+  "iceberg-interactive": {
+    "id": "iceberg-interactive",
+    "name": "Iceberg Interactive",
+    "games": ["459", "540"]
+  },
+  "yager": { "id": "yager", "name": "YAGER", "games": ["462"] },
+  "outerloop-games": {
+    "id": "outerloop-games",
+    "name": "Outerloop Games",
+    "games": ["464"]
+  },
+  "dragonest-game": {
+    "id": "dragonest-game",
+    "name": "Dragonest Game",
+    "games": ["469"]
+  },
+  "supergiant-games": {
+    "id": "supergiant-games",
+    "name": "Supergiant Games",
+    "games": ["431", "587"]
+  },
+  "phoenix-labs": {
+    "id": "phoenix-labs",
+    "name": "Phoenix Labs",
+    "games": ["395"]
+  },
+  "double-damage": {
+    "id": "double-damage",
+    "name": "Double Damage",
+    "games": ["470"]
+  },
+  "enhance-inc.": {
+    "id": "enhance-inc.",
+    "name": "Enhance, Inc.",
+    "games": ["471"]
+  },
+  "aone-games": { "id": "aone-games", "name": "AOne Games", "games": ["476"] },
+  "squanch-games": {
+    "id": "squanch-games",
+    "name": "Squanch Games",
+    "games": ["478"]
+  },
+  "code-horizon": {
+    "id": "code-horizon",
+    "name": "Code Horizon",
+    "games": ["482"]
+  },
+  "three-fields-entertainment": {
+    "id": "three-fields-entertainment",
+    "name": "Three Fields Entertainment",
+    "games": ["485"]
+  },
+  "vblank-entertainment": {
+    "id": "vblank-entertainment",
+    "name": "VBlank Entertainment",
+    "games": ["483"]
+  },
+  "coffee-stain-studios": {
+    "id": "coffee-stain-studios",
+    "name": "Coffee Stain Studios",
+    "games": ["489"]
+  },
+  "deimos-games": {
+    "id": "deimos-games",
+    "name": "Deimos Games",
+    "games": ["492"]
+  },
+  "tinybuild-games": {
+    "id": "tinybuild-games",
+    "name": "tinyBuild Games",
+    "games": ["501"]
+  },
+  "funcom": { "id": "funcom", "name": "Funcom", "games": ["504", "548"] },
+  "atari": { "id": "atari", "name": "Atari", "games": ["505"] },
+  "tomorrow-corporation": {
+    "id": "tomorrow-corporation",
+    "name": "Tomorrow Corporation",
+    "games": ["511", "572"]
+  },
+  "ko-op": { "id": "ko-op", "name": "Ko-Op", "games": ["515"] },
+  "uppercut-games": {
+    "id": "uppercut-games",
+    "name": "Uppercut Games",
+    "games": ["518"]
+  },
+  "ten-hut-games": {
+    "id": "ten-hut-games",
+    "name": "Ten Hut Games",
+    "games": ["522"]
+  },
+  "subset-games": {
+    "id": "subset-games",
+    "name": "Subset Games",
+    "games": ["524", "586"]
+  },
+  "aspyr-media": {
+    "id": "aspyr-media",
+    "name": "Aspyr Media",
+    "games": ["527"]
+  },
+  "monomi-park": {
+    "id": "monomi-park",
+    "name": "Monomi Park",
+    "games": ["537"]
+  },
+  "edmund-mcmillen-tyler-glaiel": {
+    "id": "edmund-mcmillen-tyler-glaiel",
+    "name": "Edmund McMillen, Tyler Glaiel",
+    "games": ["539"]
+  },
+  "david-oreilly": {
+    "id": "david-oreilly",
+    "name": "David OReilly",
+    "games": ["543"]
+  },
+  "six-foot": { "id": "six-foot", "name": "Six Foot", "games": ["541"] },
+  "playdead": { "id": "playdead", "name": "Playdead", "games": ["555"] },
+  "heart-machine": {
+    "id": "heart-machine",
+    "name": "Heart Machine",
+    "games": ["559"]
+  },
+  "remedy-entertainment": {
+    "id": "remedy-entertainment",
+    "name": "Remedy Entertainment",
+    "games": ["565"]
+  },
+  "thekla-inc.": {
+    "id": "thekla-inc.",
+    "name": "Thekla, Inc.",
+    "games": ["567"]
+  },
+  "double-damage-games-inc.": {
+    "id": "double-damage-games-inc.",
+    "name": "Double Damage Games, Inc.",
+    "games": ["571"]
+  },
+  "warner-bros.": {
+    "id": "warner-bros.",
+    "name": "Warner Bros.",
+    "games": ["577", "585"]
+  },
+  "thomas-happ-games-llc": {
+    "id": "thomas-happ-games-llc",
+    "name": "Thomas Happ Games LLC",
+    "games": ["579"]
+  },
+  "devolver-digital-croteam": {
+    "id": "devolver-digital-croteam",
+    "name": "Devolver Digital, Croteam",
+    "games": ["580"]
+  },
+  "landfall-games": {
+    "id": "landfall-games",
+    "name": "Landfall Games",
+    "games": ["486"]
+  },
+  "wired-productions": {
+    "id": "wired-productions",
+    "name": "Wired Productions",
+    "games": ["484"]
+  }
+}
