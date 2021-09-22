@@ -1,13 +1,22 @@
 const fs = require('fs')
+const { v4: uuidV4 } = require('uuid')
 const admin = require('firebase-admin')
 
 const serviceAccount = require('./epicgames-clone-firebase-adminsdk-ewb94-c26d4ff979.json')
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
+  storageBucket: 'epicgames-clone.appspot.com',
 })
 
 const db = admin.firestore()
+const bucket = admin.storage().bucket()
+
+module.exports.sampleupload = () => {
+  ref.put(file).then((snapshot) => {
+    console.log('Uploaded a blob or file!')
+  })
+}
 
 module.exports.createDoc = () => {
   db.collection('sampleCollection')
@@ -72,4 +81,42 @@ module.exports.createAllDocuments = () => {
         console.log(err)
       })
   }
+}
+
+module.exports.uploadImages = () => {
+  const dirImages = './data/images/images-resized'
+  const dirSubImages = './data/images/images-resized'
+
+  uploadAll(dirImages, 'images')
+  uploadAll(dirSubImages, 'subImages')
+}
+
+const uploadAll = (dir, dest) => {
+  fs.readdir(dir, async (err, files) => {
+    if (err) {
+      console.log('Error ', err)
+      return
+    }
+
+    for (let i = 0; i < 2; i++) {
+      const file = files[i]
+      const filePath = dir + '/' + file
+      console.log(file, filePath)
+
+      bucket
+        .upload(filePath, {
+          destination: dest + '/' + file,
+          uploadType: 'media',
+          gzip: true,
+          metadata: {
+            cacheControl: 'public, max-age=31536000',
+            metadata: {
+              firebaseStorageDownloadTokens: uuidV4(),
+            },
+          },
+        })
+        .then(() => console.log('upload Success'))
+        .catch((err) => console.log('Error:: ', err))
+    }
+  })
 }

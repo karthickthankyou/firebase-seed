@@ -1,2 +1,2 @@
-const { createAllDocuments } = require('./index.js')
-createAllDocuments()
+const { uploadImages } = require('./index.js')
+uploadImages()
