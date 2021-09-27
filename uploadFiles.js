@@ -1,3 +1,3 @@
 const { uploadImages } = require('./index.js')
 // uploadImages()
-console.log('Hello seeding from script')
+console.log('Hello uploading pictures from script.')
